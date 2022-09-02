@@ -385,7 +385,7 @@ ul {
 
 
 /* LARGE SIZE */
-@media(min-width: 750px) {
+@media(min-width: 850px) {
     body {
         padding: 0 1em;
     }
