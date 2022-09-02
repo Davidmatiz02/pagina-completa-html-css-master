@@ -406,7 +406,7 @@ ul {
 
 
 
-@media (min-width: 900px){
+@media (min-width: 1000px){
     header{
         position: fixed;
         width: 100%;
