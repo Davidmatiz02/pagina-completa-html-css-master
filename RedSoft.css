@@ -440,10 +440,10 @@ ul {
     }
 
     #Quienes-Somos .texto{
-        width: 50%;
-        max-width: 600px;
+        width: 190%;
+        max-width: 700px;
         text-align:left;
-        padding-right: 200px;
+        padding-right: 270px;
         display: flex;
         flex-direction: column;
         justify-content: left;
@@ -453,11 +453,11 @@ ul {
     }
 
     #Quienes-Somos h2{
-        margin-top: -110px;
+        margin-top: -105px;
     }
 
     #Quienes-Somos p2{
-        margin-top: 0px;
+        margin-top: 10px;
         text-align:justify
 
     }
@@ -467,7 +467,7 @@ ul {
     }
 
     #Quienes-Somos p3{
-        margin-top: -5px;
+        margin-top: -10px;
         text-align:start
 
     }
@@ -490,9 +490,9 @@ ul {
     )
         ,url("media/Quines.JPG");
         background-repeat: no-repeat;
-        background-size: 480px 450px;
-        background-position: calc(100vw - 700px) 100px; 
-        height: 550px;
+        background-size: 490px 450px;
+        background-position: calc(110vw - 700px) 100px; 
+        height: 600px;
     }
 
 
