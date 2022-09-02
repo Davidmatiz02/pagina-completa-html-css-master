@@ -115,7 +115,7 @@ header a:hover{
 
 #Quienes-Somos .container{
     text-align: center;
-    padding: 150px 80px;
+    padding: 160px 10px;
     
 }
 
@@ -406,13 +406,7 @@ ul {
 
 
 
-
-
-
-
-
-
-@media (min-width: 800px){
+@media (min-width: 1000px){
     header{
         position: fixed;
         width: 100%;
@@ -441,13 +435,13 @@ ul {
 
     #Quienes-Somos .texto{
         width: 190%;
-        max-width: 700px;
+        max-width: 600px;
         text-align:left;
         padding-right: 270px;
         display: flex;
         flex-direction: column;
         justify-content: left;
-        line-height: 18px;
+        line-height: 22px;
         padding: 5em;
         
     }
@@ -491,7 +485,7 @@ ul {
         ,url("media/Quines.JPG");
         background-repeat: no-repeat;
         background-size: 490px 450px;
-        background-position: calc(110vw - 700px) 100px; 
+        background-position: calc(110vw - 700px) 120px; 
         height: 600px;
     }
 
